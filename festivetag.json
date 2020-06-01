@@ -1,14 +1,42 @@
 [
   {
-    "id": 1,
-    "name": "option 1"
+    "value": "festive-tag-1",
+    "label": "Festive Tag 1"
   },
   {
-    "id": 2,
-    "name": "option 2"
+    "value": "festive-tag-2",
+    "label": "Festive Tag 2"
   },
   {
-    "id": 3,
-    "name": "option 3"
+    "value": "festive-tag-3",
+    "label": "Festive Tag 3"
+  },
+  {
+    "value": "festive-tag-4",
+    "label": "Festive Tag 4"
+  },
+  {
+    "value": "festive-tag-5",
+    "label": "Festive Tag 5"
+  },
+  {
+    "value": "festive-tag-6",
+    "label": "Festive Tag 6"
+  },
+  {
+    "value": "festive-tag-7",
+    "label": "Festive Tag 7"
+  },
+  {
+    "value": "festive-tag-8",
+    "label": "Festive Tag 8"
+  },
+  {
+    "value": "festive-tag-9",
+    "label": "Festive Tag 9"
+  },
+  {
+    "value": "festive-tag-10",
+    "label": "Festive Tag 10"
   }
 ]
