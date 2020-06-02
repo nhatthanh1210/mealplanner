@@ -1,0 +1,22 @@
+{
+  "Status": true,
+  "Total": 4,
+  "Products": [
+    {
+      "Value": "{E06CF251-549F-444E-8ABC-16277617F502}",
+      "Text": "Choy Sun Oyster Flavored Sauce"
+    },
+    {
+      "Value": "{EB4F878E-E42D-47CC-ADD6-A2B4AC5ADCEE}",
+      "Text": "Oyster Sauce With Dried Scallop"
+    },
+    {
+      "Value": "{D9AC1844-5C18-4E8D-BD27-2471171AA82F}",
+      "Text": "Panda Brand Oyster Flavored Sauce"
+    },
+    {
+      "Value": "{308DACE6-2B65-47FC-A8B2-108B9E77F6CD}",
+      "Text": "Premium Oyster Flavored Sauce"
+    }
+  ]
+}
