@@ -1,0 +1,15 @@
+{
+  "Status": 200,
+  "Message": "",
+  "TotalEntries": 2,
+  "Entries": [
+    {
+      "Text": "30 minutes",
+      "Value": "{986906DA-FB75-4584-95A5-49652DCBC1F7}"
+    },
+    {
+      "Text": "Abalone",
+      "Value": "{DCBEF477-1104-44B3-B1B8-5E4EEA9DA4BD}"
+    }
+  ]
+}
