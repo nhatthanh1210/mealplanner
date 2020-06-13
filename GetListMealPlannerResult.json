@@ -1,0 +1,23 @@
+{
+  "TotalEntries": 2,
+  "Entries": [
+    {
+      "Id": "b2b471df-ee69-4a2e-bab4-37701d474dc2",
+      "WeekNumber": "Week 23",
+      "Date": "Jun 01, 2020",
+      "Day": "Monday",
+      "RecipeName": "Aromatic Braised Lamb Shanks",
+      "RecipeId": "{660215B2-1A89-49F7-9025-0A1E727894F6}"
+    },
+    {
+      "Id": "52ffe38d-3912-49f5-abb0-4c6197794b99",
+      "WeekNumber": "Week 23",
+      "Date": "Jun 02, 2020",
+      "Day": "Tuesday",
+      "Recipe": "Baked Baby Pork Legs with XO Sauce Yogurt",
+      "RecipeId": "{5A42E736-8C4F-4F73-B5FE-524327037CA4}"
+    }
+  ],
+  "Status": 200,
+  "Message": ""
+}
